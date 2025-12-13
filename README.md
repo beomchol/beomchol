@@ -23,7 +23,7 @@
 ### **🎓 EDUCATION 🎓**
 
 **동양미래대학교 (Dongyang Mirae University)**  
-컴퓨터 공학 전공 | 2021.03 - 재학중
+컴퓨터 공학 전공 | 2023.03 - 재학중
 
 학습 중인 과목: 자료구조, 알고리즘, 객체지향프로그래밍  
 관심 분야: 웹 개발, 백엔드 개발, 소프트웨어 엔지니어링
@@ -108,7 +108,7 @@ class BeomChol:
     def __init__(self):
         self.name = "BeomChol"
         self.university = "동양미래대학교"
-        self.major = "Computer Science"
+        self.major = "AI Software"
         
     def current_focus(self):
         return {
