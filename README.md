@@ -1,15 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=BeomCHol&fontAlign=50&fontAlignY=35&fontSize=40&desc=/*student%20developer%20and%20more*/&descAlignY=70&descAlign=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=rect&text=BeomChol&fontAlign=50&fontAlignY=35&fontSize=40&desc=/*student%20developer%20and%20more*/&descAlignY=70&descAlign=50&theme=radical)
 
 &nbsp;
 
 ### **PROFILE 📍**
 
-[![](https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF)](본인-웹사이트-주소)
 [![](https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF)](https://github.com/beomchol)
 
 &nbsp;
 
-### **TOY PROJECT 🧸**
+### ** PROJECT **
 
 [![](https://img.shields.io/badge/프로젝트명1-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF)](프로젝트-링크)
 [![](https://img.shields.io/badge/프로젝트명2-FFB6C1?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF)](프로젝트-링크)
