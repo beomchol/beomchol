@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BEOMCHOL&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Dongyang%20Mirae%20University&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BEOMCHOL&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ai%20Software%20Student%20|%20Dongyang%20Mirae%20University&descAlignY=51&descAlign=62)
 
 </div>
 
