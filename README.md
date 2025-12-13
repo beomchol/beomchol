@@ -200,7 +200,7 @@ class BeomChol:
 
 ### **"끊임없이 배우고, 성장하는 개발자가 되겠습니다"** 💻✨
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeomchol&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeomchol&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
