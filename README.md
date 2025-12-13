@@ -55,7 +55,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 
 **Frontend**
 
@@ -130,11 +129,10 @@ class BeomChol:
 
 <div align="center">
 
-### **🎯 2024 Goals 🎯**
+### **🎯 2025 Goals 🎯**
 
 ✅ GitHub 프로필 꾸미기 완료!  
-📝 개인 프로젝트 1개 완성하기  
-💻 알고리즘 문제 100개 풀기  
+📝 개인 프로젝트 1개 완성하기   
 🚀 팀 프로젝트 경험하기  
 📖 기술 블로그 시작하기
 
