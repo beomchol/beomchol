@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### **TOY PROJECT 🧸**
+### ** PROJECT **
 
 [![](https://img.shields.io/badge/Coming_Soon-A1BFD7?style=for-the-badge&logoColor=FFFFFF)](#)
 [![](https://img.shields.io/badge/In_Progress-FFB6C1?style=for-the-badge&logoColor=FFFFFF)](#)
