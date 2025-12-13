@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=YOUR%20NAME&fontAlign=50&fontAlignY=35&fontSize=40&desc=/*student%20developer%20and%20more*/&descAlignY=70&descAlign=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=rect&text=BeomCHol&fontAlign=50&fontAlignY=35&fontSize=40&desc=/*student%20developer%20and%20more*/&descAlignY=70&descAlign=50&theme=radical)
 
 &nbsp;
 
 ### **PROFILE 📍**
 
 [![](https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF)](본인-웹사이트-주소)
-[![](https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF)](https://github.com/본인아이디)
-[![](https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF)](본인-블로그-주소)
+[![](https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF)](https://github.com/beomchol)
 
 &nbsp;
 
@@ -22,7 +21,6 @@
 ### **💡 What I've Used 💡**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Spring_Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 
